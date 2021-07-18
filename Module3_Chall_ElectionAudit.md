@@ -1,7 +1,11 @@
 # Module 3 Challenge - Election Audit
 
 ## Overview of the Election Audit
-Explain the purpose of this election audit analysis.
+The purpose of this analysis is to perform an election audit on election data to provide the following information to the Colorado Board of Elections:
+ - Total number of votes cast in the election
+ - Total number of votes and vote percentage for each county in the election
+ - County with the largest number of votes cast
+ - Total number of votes and vote percentage for each county in the election
 
 
 ## Resources
